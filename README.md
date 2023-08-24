@@ -17,7 +17,7 @@
 
 - 📝 I regularly read this book on [https://lawyersofpakistan.com/wp-content/uploads/power-subconscious-mind.pdf](https://lawyersofpakistan.com/wp-content/uploads/power-subconscious-mind.pdf)
 
-- 💬 Ask me about **Html,Css,js,React-js,J2EE,JDBC,SERVLET,HIBERNATE,SPRING ,SPRING BOOT ETC.**
+- 💬 Ask me about **Html ,Css ,Javascript ,React-js ,J2EE ,JDBC ,SERVLET ,HIBERNATE ,SPRING ,SPRING BOOT ETC .**
 
 - 📫 How to reach me **shivamshubham97@gmail.com**
 
